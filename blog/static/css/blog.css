@@ -5,7 +5,7 @@ h1 a{
 }
 body {
     padding-left: 0px;
-    color: #fff;
+    color: #3b0938;
 }
 .page-header{
     background-color: #d194cd ;
@@ -64,4 +64,12 @@ h1, h2, h3, h4 {
 
 .row {
     text-align: left;
+}
+
+textarea {
+    color: black !important;
+}
+
+input {
+    color: black !important;
 }
