@@ -5,7 +5,8 @@ h1 a{
 }
 body {
     padding-left: 0px;
-    color: #3b0938;
+    background-color: #3b0938;
+    color: white;
 }
 .page-header{
     background-color: #d194cd ;
